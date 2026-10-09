@@ -35,6 +35,8 @@ Các bước thực hiện bao gồm:
 ### 4.1. Kiểm thử GET
 
 Sử dụng GET để lấy thông tin bài viết theo ID. Kiểm tra mã trạng thái HTTP, định dạng JSON, ID trả về và sự tồn tại của các trường dữ liệu cần thiết.
+<img width="1826" height="624" alt="image" src="https://github.com/user-attachments/assets/76a88cba-158d-4ad6-8a0b-341c5e99835a" />
+
 
 ### 4.2. Kiểm thử POST
 
