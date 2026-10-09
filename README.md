@@ -1,5 +1,8 @@
 # BÁO CÁO THỰC HÀNH KIỂM THỬ API BẰNG POSTMAN
-
+Họ và tên: Nguyen Trung Tu
+Môn học: Software Testing
+Công cụ: Postman
+Chủ đề: Thực hành kiểm thử API
 ## 1. Mục tiêu
 
 Mục tiêu của bài thực hành là tìm hiểu và sử dụng công cụ Postman để kiểm thử API. Bài thực hành giúp sinh viên nắm được quy trình gửi HTTP request, kiểm tra HTTP response, xây dựng test case và viết script kiểm thử tự động.
@@ -12,6 +15,7 @@ Mục tiêu của bài thực hành là tìm hiểu và sử dụng công cụ P
 * Tài nguyên kiểm thử: Posts.
 * Các phương thức: GET, POST, PUT, DELETE.
 * Định dạng dữ liệu: JSON.
+  
 
 ## 3. Phương pháp kiểm thử
 
